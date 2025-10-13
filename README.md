@@ -1,6 +1,6 @@
 # Projeto_BiblioSmart_
 
-Projeto da faculdade que fiz em grupo que fui responsavel pelo desenvolvimento da aplicação no meu quarto periodo
+Projeto da faculdade que fiz em grupo que fui responsavel pelo desenvolvimento da aplicação no meu quarto periodo, utilizei a expo snack como ferramenta de criação
 
 A aplicação foi construída sobre um conjunto de tecnologias modernas para desenvolvimento móvel multiplataforma, usamos React Native, utilizando JavaScript para criar uma interface nativa e responsiva em dispositivos Android e iOS. A estrutura baseia-se em componentes funcionais e Hooks para controle de estados, efeitos e dados globais. 
 
